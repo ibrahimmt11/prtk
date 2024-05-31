@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="1" failures="0" name="com.mycompany.tp_mod_02_1302210022_ibrahim_mulyo_tsabit.TP_MOD_02_1302210022_Ibrahim_Mulyo_TsabitTest" time="0.004" errors="0" skipped="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="java.vm.version" value="21.0.1+12-LTS-29"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-21\bin"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\TELKOM UNIVERSITY\SEMESTER 4\PBO\TP\MOD 2\TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="ID"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="test" value="com.mycompany.tp_mod_02_1302210022_ibrahim_mulyo_tsabit.TP_MOD_02_1302210022_Ibrahim_Mulyo_TsabitTest"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\TELKOM UNIVERSITY\SEMESTER 4\PBO\TP\MOD 2\TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="java.runtime.version" value="21.0.1+12-LTS-29"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\Ibrahim\AppData\Local\Temp\"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="stderr.encoding" value="Cp1252"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="maven.ext.class.path" value="C:\Program Files\NetBeans-17\netbeans\java\maven-nblib\netbeans-eventspy.jar"/>
+    <property name="classworlds.conf" value="C:\Program Files\NetBeans-17\netbeans\java\maven\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="stdout.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-21\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python311\Scripts\;C:\Python311\;C:\oraclexe\app\oracle\product\11.2.0\server\bin;C:\Installer\oracle\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft VS Code\bin;C:\Users\Ibrahim\AppData\Local\Programs\Python\Python310\Scripts;C:\Users\Ibrahim\go\bin\staticcheck.exe;C:\Program Files\Go\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\nodejs\;C:\Installer\sonar-scanner-5.0.1.3006-windows\bin;C:\xampp\php;C:\ProgramData\ComposerSetup\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Gradle\gradle-8.4\bin;C:\Program Files\dotnet\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\Ibrahim\AppData\Local\Pub\Cache\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Ibrahim\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Ibrahim\AppData\Local\Programs\Python\Python310\;C:\Users\Ibrahim\AppData\Local\Microsoft\WindowsApps;C:\Users\Ibrahim\go\bin;C:\Users\Ibrahim\AppData\Local\GitHubDesktop\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.3\bin;;C:\Users\Ibrahim\AppData\Roaming\npm;C:\Installer\sonar-scanner-5.0.1.3006-windows\bin;C:\Users\Ibrahim\AppData\Roaming\Composer\vendor\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Gradle\gradle-8.4\bin;C:\Flutter\flutter\bin;C:\Users\Ibrahim\.dotnet\tools;C:\Users\Ibrahim\AppData\Local\Pub\Cache\bin;;."/>
+    <property name="maven.conf" value="C:\Program Files\NetBeans-17\netbeans\java\maven/conf"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="java.class.version" value="65.0"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="library.jansi.path" value="C:\Program Files\NetBeans-17\netbeans\java\maven\lib\jansi-native"/>
+    <property name="user.home" value="C:\Users\Ibrahim"/>
+    <property name="user.timezone" value="Asia/Jakarta"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="21"/>
+    <property name="user.name" value="Ibrahim"/>
+    <property name="java.class.path" value="C:\Program Files\NetBeans-17\netbeans\java\maven\boot\plexus-classworlds-2.6.0.jar"/>
+    <property name="java.vm.specification.version" value="21"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -Dtest=com.mycompany.tp_mod_02_1302210022_ibrahim_mulyo_tsabit.TP_MOD_02_1302210022_Ibrahim_Mulyo_TsabitTest -Dmaven.ext.class.path=C:\Program Files\NetBeans-17\netbeans\java\maven-nblib\netbeans-eventspy.jar --no-transfer-progress surefire:test"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-21"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.version" value="21.0.1"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Program Files\NetBeans-17\netbeans\java\maven"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.version.date" value="2023-10-17"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase classname="com.mycompany.tp_mod_02_1302210022_ibrahim_mulyo_tsabit.TP_MOD_02_1302210022_Ibrahim_Mulyo_TsabitTest" name="com.mycompany.tp_mod_02_1302210022_ibrahim_mulyo_tsabit.TP_MOD_02_1302210022_Ibrahim_Mulyo_TsabitTest.testFuncfpb" time="0.004"/>
+</testsuite>
