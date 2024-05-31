@@ -18,6 +18,6 @@ public class TP_MOD_02_1302210022_Ibrahim_Mulyo_TsabitTest {
         assertEquals(3, TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit.funcfpb(9, 6));
         assertEquals(5, TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit.funcfpb(10, 15));
         assertEquals(7, TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit.funcfpb(14, 21));
-        assertEquals(4, TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit.funcfpb(8, 12));
+        assertEquals(10, TP_MOD_02_1302210022_Ibrahim_Mulyo_Tsabit.funcfpb(8, 12));
     }
 }
